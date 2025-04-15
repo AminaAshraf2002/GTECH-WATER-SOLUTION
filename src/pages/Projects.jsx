@@ -127,7 +127,7 @@ const projectsData = [
     client: 'Nest Hostel',
     contact: '7012865128',
     images: [
-      'https://d2bxpw04qb5rhq.cloudfront.net/production/property_image/image/17750/7ad52590254464a5707339ad79f3ff684354be9b5f75e14ba4be0ba00b01262279749fb97a7736c4/def3efdfca017b51241c43e17a1c7789.jpg',
+      'https://lh3.googleusercontent.com/p/AF1QipNjs4pZxjvcUx6PDbwnGoK6SdZqt2YyfIwGp_zE=w408-h544-k-no',
       
     ],
     details: `Successfully implemented a 100 KLD Sewage Treatment Plant for Nest Hostel in Kochi. The system was designed to handle the wastewater generated from the large residential facility while ensuring minimal environmental impact.
@@ -196,7 +196,7 @@ const projectsData = [
     client: 'Koikkara Caterers',
     contact: '9847165169',
     images: [
-      '/api/placeholder/1200/800',
+      'https://lh3.googleusercontent.com/p/AF1QipPeOkt4aO-zcqeGYfInNCkkWek57b0OzEd6XC46=w408-h271-k-no',
       
     ],
     details: `Designed and installed a 50 KLD Moving Bed Biofilm Reactor (MBBR) Sewage Treatment Plant for Koikkara Caterers in Kochi. The system was specifically engineered to handle the high-strength wastewater generated from food preparation and catering operations.
@@ -231,6 +231,28 @@ const projectsData = [
       'Drinking water purification',
       'Low maintenance design',
       'Water quality monitoring'
+    ]
+  },
+  {
+    id: 10,
+    title: 'NAJATH HOSPITAL',
+    description: 'WATER TREATMENT PLANT',
+    category: 'healthcare',
+    location: 'Calicut',
+    client: 'Najath Hospital',
+    contact: '04842623693',
+    images: [
+      'https://lh3.googleusercontent.com/p/AF1QipNiLS4mA1wc00-vCmpdddG2ronZQgh2hQd8aQL2=w408-h907-k-no'
+    ],
+    details: `Designed and implemented a 60 KLD Water Treatment Plant for Najath Hospital in Calicut. The comprehensive system provides purified water for all hospital operations including medical procedures, patient care, and facility maintenance.
+    
+    The water treatment solution addresses specific healthcare requirements for water purity, ensuring compliance with medical standards while improving operational efficiency and patient safety. The system includes advanced filtration, disinfection, and monitoring systems appropriate for healthcare applications.`,
+    features: [
+      '60 KLD capacity water treatment plant',
+      'Medical-grade water purification',
+      'Automated monitoring systems',
+      'Compliant with healthcare standards',
+      'Low maintenance design'
     ]
   }
 ];
